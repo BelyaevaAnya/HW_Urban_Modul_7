@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4db5be6-b5dc-4e04-b2d1-1bd5207c76c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcpectPositionInFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectOperatorWith.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ConcpectOpenFileProgram.executor": "Run",
+    "Python.ConcpectOperatorWith.executor": "Run",
     "Python.ConcpectPositionInFile.executor": "Run",
     "Python.ConcpectStringsBytesCodes.executor": "Run",
     "Python.module_7_1.executor": "Run",
