@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4db5be6-b5dc-4e04-b2d1-1bd5207c76c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcpectParsingStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectModuleOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mother Goose - Monday’s Child/Mother Goose - Monday’s Child.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mother Goose - Monday’s Child/third/fourth/Mother Goose - Monday’s Child.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walt Whitman - O Captain! My Captain!.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mother Goose - Monday’s Child/Walt Whitman - O Captain! My Captain!.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ConcpectModuleOS.executor": "Run",
     "Python.ConcpectOpenFileProgram.executor": "Run",
     "Python.ConcpectOperatorWith.executor": "Run",
     "Python.ConcpectParsingStrings.executor": "Run",
@@ -56,12 +59,15 @@
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
     "Python.module_7_4.executor": "Run",
+    "Python.module_7_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\belae\PycharmProjects\HW_Urban_Modul_7\Mother Goose - Monday’s Child\third\fourth" />
+      <recent name="C:\Users\belae\PycharmProjects\HW_Urban_Modul_7\Mother Goose - Monday’s Child" />
       <recent name="C:\Users\belae\PycharmProjects\HW_Urban_Modul_7" />
     </key>
   </component>
