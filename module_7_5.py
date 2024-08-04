@@ -10,11 +10,11 @@ def find_file(directory):
             formatted_time = time.strftime("%d.%m.%Y %H:%M", time.localtime(filetime))
             filesize = os.path.getsize(filepath)
             parent_dir = os.path.dirname(filepath)
-            print(f'Обнаружен файл: {file}, '
-                  f'Путь: {filepath},'
-                  f' Размер: {filesize} байт,'
-                  f' Время изменения: {formatted_time},'
-                  f' Родительская директория: {parent_dir}')
+            print(f'Обнаружен файл: {file},\n '
+                  f'Путь: {filepath},\n'
+                  f' Размер: {filesize} байт,\n'
+                  f' Время изменения: {formatted_time},\n'
+                  f' Родительская директория: {parent_dir}\n')
 
 
 directory = r'C:\Users\belae\PycharmProjects\HW_Urban_Modul_7\Mother Goose - Monday’s Child\third\fourth'
