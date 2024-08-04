@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4db5be6-b5dc-4e04-b2d1-1bd5207c76c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectParsingStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +49,13 @@
   "keyToString": {
     "Python.ConcpectOpenFileProgram.executor": "Run",
     "Python.ConcpectOperatorWith.executor": "Run",
+    "Python.ConcpectParsingStrings.executor": "Run",
     "Python.ConcpectPositionInFile.executor": "Run",
     "Python.ConcpectStringsBytesCodes.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
+    "Python.module_7_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }

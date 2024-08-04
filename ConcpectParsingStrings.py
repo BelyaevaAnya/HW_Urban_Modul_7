@@ -1,0 +1,7 @@
+print('Привет, ' + 'мир! ' + str(5))
+print('Меня зовут %s, мне %s' % ('Anya', 22))
+print('Меня зовут %(name)s, мне %(year)s' % {'name': 'Anya', 'year': 22})
+print('Я учусь в {}{}'.format('Урбан', '-university'))
+print('Я учусь в {0}{1} {0}'.format('Урбан', '-university'))
+print('Я учусь в {title}{postfix} {title}'.format(title='Урбан', postfix='-university'))
+print(f'{"Urban" * 2}-это университет')
